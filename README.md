@@ -13,9 +13,14 @@ Este projeto implementa testes automatizados para o site **Advantage Online Shop
 
 ## Para configurar o Ambiente:
 Instalar vs code: mais atual
+
 Instalar postman: mais atual
+
 Escolher uma IDE de JavaScript para programar.
+
 Instalar o Cypress com Cucumber executando o seguinte comando na raíz da pasta do seu projeto: 
-1º npm install cypress
+
+1º npm install cypress - 
 2º npm install cypress-cucumber-preprocessor --save-dev
+
 Para executar os testes via terminal: npx cypress open 

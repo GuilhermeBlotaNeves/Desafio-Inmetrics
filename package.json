@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "cypress": "^13.14.2"
+  },
+  "name": "Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Neves",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDeFinitions": true,
+    "stepDefinitions": "cypress/e2e/step/Web"
+}}

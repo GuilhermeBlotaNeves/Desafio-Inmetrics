@@ -1,5 +1,6 @@
 # Ignorar diretórios de dependências
 node_modules/
+fixtures/
 
 # Ignorar arquivos de configuração locais
 *.env
